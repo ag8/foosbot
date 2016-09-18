@@ -1,0 +1,2 @@
+# foosbot
+amazing thing
